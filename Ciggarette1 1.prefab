@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8332746332105737237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8634926156479629920}
+  m_Layer: 0
+  m_Name: Ciggarette1 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8634926156479629920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8332746332105737237}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.114103206, y: 0.029773269, z: 0.01920646, w: 0.99283695}
+  m_LocalPosition: {x: 0.097, y: 1.789, z: -9.932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 690313706229725902}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 13.028, y: 3.737, z: 2.643}
+--- !u!1001 &1017468088575761701
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8634926156479629920}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5908154
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.59081537
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6.498968
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.052000046
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.05000019
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.17126049
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.35505402
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.3193751
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.86174595
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -25.393
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 52.984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 144.706
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_Name
+      value: Cigarette
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f1328e97c46c8d14cbfa6b823243306f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f1328e97c46c8d14cbfa6b823243306f, type: 3}
+--- !u!4 &690313706229725902 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f1328e97c46c8d14cbfa6b823243306f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1017468088575761701}
+  m_PrefabAsset: {fileID: 0}
